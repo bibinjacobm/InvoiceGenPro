@@ -1,0 +1,6 @@
+
+{
+  "name": "Consultancy Invoice Generator",
+  "description": "A standalone, session-based tool for generating TDS-compliant Indian consultancy invoices with PDF export and real-time calculations.",
+  "requestFramePermissions": []
+}
