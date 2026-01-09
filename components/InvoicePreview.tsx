@@ -36,7 +36,7 @@ const InvoicePreview: React.FC<PreviewProps> = ({ data, subtotal, tdsRate, tdsAm
       <div className="flex justify-between items-start border-b-2 border-gray-800 pb-4 mb-4">
         <div className="flex-1">
           <h1 className="text-2xl font-black text-gray-900 mb-1 uppercase tracking-tighter">Invoice</h1>
-          <p className="text-gray-500 font-medium text-[11px]">Professional Services Rendered</p>
+          <p className="text-gray-500 font-medium text-[11px]">Services Rendered</p>
           
           <div className="mt-4 space-y-0.5">
             {data.invoiceNumber && (
